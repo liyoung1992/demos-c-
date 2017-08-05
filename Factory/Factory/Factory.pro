@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2017-08-02T21:26:45
+# Project created by QtCreator 2017-08-04T15:08:43
 #
 #-------------------------------------------------
 
@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = SampleFactory
+TARGET = Factory
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
@@ -24,10 +24,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += main.cpp\
-        samplefactory.cpp \
-    abstractproduct.cpp
+        mainwindow.cpp \
+    abstractfruit.cpp \
+    abstractfarm.cpp
 
-HEADERS  += samplefactory.h \
-    abstractproduct.h
+HEADERS  += mainwindow.h \
+    abstractfruit.h \
+    abstractfarm.h
 
-FORMS    += samplefactory.ui
+FORMS    += mainwindow.ui
