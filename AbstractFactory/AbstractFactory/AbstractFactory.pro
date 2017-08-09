@@ -24,8 +24,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    abstracttable.cpp \
+    abstractchair.cpp \
+    abstractfactory.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    abstracttable.h \
+    abstractchair.h \
+    abstractfactory.h
 
 FORMS    += mainwindow.ui
