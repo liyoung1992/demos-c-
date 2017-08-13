@@ -8,3 +8,4 @@
 
 ## 文本处理
 1. [读取Excel](https://github.com/liyoung1992/demos-cpp/tree/master/QReadExcel)
+2. [文本读写](https://github.com/liyoung1992/demos-cpp/tree/master/TxtReadWrite)
