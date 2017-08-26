@@ -13,10 +13,9 @@
 3. [json读写](https://github.com/liyoung1992/demos-cpp/tree/master/CppJson)
 
 ## 网络编程
-1. [libcurl发送get请求](http://)
-2. [libcurl发送post请求](http://)
-3. [libcurl进行ftp上传](http://)
-4. [gumbo-parser解析html文件](http://)
+1. [libcurl发送get请求](https://github.com/liyoung1992/demos-cpp/tree/master/libcurl)
+2. [libcurl发送post请求](https://github.com/liyoung1992/demos-cpp/tree/master/libcurl)
+3. [libcurl进行ftp上传](https://github.com/liyoung1992/demos-cpp/tree/master/libcurl)
 
 ## 音视频处理
 1.[TODO](http://)
