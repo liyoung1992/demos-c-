@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  cmd.cpp
+  cmd.vcxproj -> D:\dev\demos-cpp\CommandPattern\cmd\Debug\cmd.exe
+  cmd.vcxproj -> D:\dev\demos-cpp\CommandPattern\cmd\Debug\cmd.pdb (Full PDB)
