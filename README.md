@@ -7,6 +7,7 @@
 4. [抽象工厂模式](https://github.com/liyoung1992/demos-cpp/tree/master/AbstractFactory/AbstractFactory)
 5. [观察者模式](https://github.com/liyoung1992/demos-cpp/tree/master/Observer/Observer)
 6. [装饰者模式](https://github.com/liyoung1992/demos-cpp/tree/master/Decorator/decoraterDemo)
+7. [命令模式](https://github.com/liyoung1992/demos-cpp/tree/master/CommandPattern/cmd)
 
 ## 文本处理
 1. [读取Excel](https://github.com/liyoung1992/demos-cpp/tree/master/QReadExcel)
