@@ -1,0 +1,6 @@
+﻿  ffmpegdemo1.cpp
+  main.cpp
+e:\develop\demos-cpp\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+    正在创建库 E:\develop\demos-cpp\FFmpeg\ffmpeg-demo1\x64\Release\ffmpeg-demo1.lib 和对象 E:\develop\demos-cpp\FFmpeg\ffmpeg-demo1\x64\Release\ffmpeg-demo1.exp
+  ffmpeg-demo1.vcxproj -> E:\develop\demos-cpp\FFmpeg\ffmpeg-demo1\x64\Release\ffmpeg-demo1.exe
