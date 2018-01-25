@@ -21,3 +21,6 @@
 4. [最全的libcurl学习资源](https://github.com/liyoung1992/demos-cpp/tree/master/libcurl/list.md)
 5. [unix网络编程源码使用](https://github.com/liyoung1992/demos-cpp/blob/master/unp/unp-read-src-0.md)
 
+## QT开发
+1. [基于Qt GraphicsView 的图形绘制](https://github.com/liyoung1992/GraphicsItem)
+
